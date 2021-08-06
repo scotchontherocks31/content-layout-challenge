@@ -2,11 +2,11 @@
 
 Style the `http://localhost:3000/content-layout` page (showing 3 responsive content elements) using flex-box / grid with the breakpoints defined below. Maximum width of the entire content area on desktop should be 1200px. [View the video example.](https://www.loom.com/share/ff22e61d7e914976913985aa2390efbb)
 
-Add as much or as little custom SCSS to the `/src/assets/scss/_content-element.scss` file to adjust the layout/styles of element. Define custom variables (if needed) in the `/src/assets/scss/_variables.scss` file.
+Add as much or as little custom SCSS to the `/src/assets/scss/_content-element.scss` file to adjust the layout/styles of elements. Define custom variables (if needed) in the `/src/assets/scss/_variables.scss` file.
 
 The project includes Bootstrap 5.1.0 CSS if you would like to take advantage of that, but it's not required.
 
-### Breakpoints:
+### Breakpoints
 
 - **360px:** each content element is full-width and stacked one on top of the other, with each content element also being in a stacked view (author area above content area)
 - **576px:** each content element is full-width and stacked one on top of the other, with each content element having author area on the left, content area on the right (with text left-aligned)
