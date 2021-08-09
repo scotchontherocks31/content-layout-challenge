@@ -13,7 +13,7 @@ export default class Home extends Component {
             <div className='col-12 col-md-8 offset-md-2'>
               <h1 className='mb-3'><a href='/content-layout'>Content Layout Challenge</a></h1>
               <p>Style the <a href='/content-layout'>/content-layout</a> page (showing 3 responsive content elements) using flex-box / grid with the breakpoints defined below. Maximum width of the entire content area on desktop should be 1200px. <a href='https://www.loom.com/share/ff22e61d7e914976913985aa2390efbb' target='_blank' rel='noopener noreferrer'>View a video example.</a></p>
-              <p>Add as much or as little custom SCSS to the <span className='code'>/src/assets/scss/_content-element.scss</span> file to adjust the layout/styles of elements. Define custom variables (if needed) in the <span className='code'>/src/assets/scss/_variables.scss</span> file.</p>
+              <p>Add as much or as little custom SCSS to the <span className='code'>/src/assets/scss/_challenge.scss</span> file to adjust the layout/styles of elements. Define custom variables (if needed) in the <span className='code'>/src/assets/scss/_variables.scss</span> file.</p>
               <p>The project includes Bootstrap 5.1.0 CSS if you would like to take advantage of that, but it's not required.</p>
               <h4 className='mt-4'>Breakpoints</h4>
               <ul>
